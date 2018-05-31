@@ -1,17 +1,13 @@
 # site settings
 title: REA
-subtitle: Developer & NewHomes
-email: youremailaddress@gmail.com
-description: We are Rea Awesome team.
+subtitle: NewHomes Project & Listing
+email: bsi@thoughtworks.com
+description: Our team attach greate importance to Effetive delivery and continuous improvement.
 baseurl: "/planet-for-share" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 陕西省西安市高新区天谷八路211号环普科技产业园E座
+github: BestTeamInTheWrold
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

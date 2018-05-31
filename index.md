@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "Welcome to REA Xi'an Lob"
+landing-title: "Welcome to REA Xi'an Developer"
 description: null
 image: null
 author: null
